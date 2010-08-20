@@ -36,6 +36,8 @@ build() {
 	# readme and copyright
 	install -D readme.txt copyright ${pkgdir}/usr/share/${pkgname}/
 
+	# extras
+	install -D ${startdir}/extra/*-* ${pkgdir}/usr/bin/
 
 	# Desktop
 	install -D ${startdir}/extra/${pkgname}.desktop ${pkgdir}/usr/share/applications/${pkgname}.desktop
