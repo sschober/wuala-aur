@@ -7,5 +7,5 @@ Version=Alpha
 Type=Application
 Terminal=false
 Icon=wuala.png
-Exec=wuala/wuala
+Exec=wuala
 Categories=Application;Network;
