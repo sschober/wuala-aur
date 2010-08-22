@@ -1,9 +1,10 @@
 # Wuala: Installer: Arch
+# Maintainer: Sven Schober <sschober (at) sssm (dot) de>
 # Contributor: Xavion <Xavion (dot) 0 (at) Gmail (dot) com>
 
 pkgname=wuala
-pkgver=3
-pkgrel=20100622
+pkgver=1
+pkgrel=20100822
 pkgdesc="A new way of storing, sharing and publishing files on the Internet.  It's free, simple and secure."
 arch=("any")
 url="http://wua.la/"
